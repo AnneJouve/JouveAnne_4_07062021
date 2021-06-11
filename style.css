@@ -84,6 +84,8 @@ a:hover {
 
 figure {
     padding-top: 30px;
+    font-family: "helvetica", sans-serif;
+    color: #575757;
 }
 
 .texture-paper::before {
